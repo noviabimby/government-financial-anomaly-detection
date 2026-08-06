@@ -124,5 +124,5 @@ Bachelor of Computer Science (S.Kom)
 Machine Learning & Data Science Enthusiast  
 Universitas Lancang Kuning
 
-- LinkedIn: https://linkedin.com/in/novia-bimby-7929401b4/
+- LinkedIn: https://www.linkedin.com/in/novia-putri-bimby-7929401b4/
 - Google Scholar: https://scholar.google.co.id/citations?view_op=list_works&hl=id&user=FoBjfaAAAAAJ
